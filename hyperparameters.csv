@@ -1,2 +1,2 @@
 Product,activation_func,batch_size,epochs,n_layers,opt
-WHITE HANGING HEART T-LIGHT HOLDER,tanh,5,100,3,rmsprop
+WHITE HANGING HEART T-LIGHT HOLDER,linear,5,100,2,rmsprop
